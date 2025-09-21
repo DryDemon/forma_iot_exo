@@ -1,3 +1,6 @@
+Lien de la presentation :
+https://docs.google.com/presentation/d/1mQ6lGQccRbClIxiVzhaatusIM3mcK6LQfU23bP1gHkY/
+
 # Des labs pour pratiquer
 
 - Pentesting Camera https://github.com/grimm-co/IoTCameraLab
