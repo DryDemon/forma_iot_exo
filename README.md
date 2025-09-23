@@ -12,6 +12,7 @@ https://docs.google.com/presentation/d/1mQ6lGQccRbClIxiVzhaatusIM3mcK6LQfU23bP1g
 
 
 # Des outils : 
+- https://github.com/swisskyrepo/PayloadsAllTheThings
 - https://github.com/V33RU
 - https://github.com/yakuza8/peniot
 - https://github.com/V33RU/awesome-connected-things-sec
@@ -20,7 +21,6 @@ https://docs.google.com/presentation/d/1mQ6lGQccRbClIxiVzhaatusIM3mcK6LQfU23bP1g
 - https://github.com/IoT-PTv/IoT-PT-v1
 - https://github.com/threat9/routersploit
 - https://scriptingxss.gitbook.io/firmware-security-testing-methodology/
-- https://github.com/swisskyrepo/PayloadsAllTheThings
 - https://www.iotpentestingguide.com/chapter1.html
 - https://owasp.org/www-project-iot-security-testing-guide/
 - https://github.com/V33RU/awesome-connected-things-sec
